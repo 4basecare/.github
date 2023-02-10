@@ -30,8 +30,7 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white)
 ---
 ## Team's Project Repository Link:
-1. [Clinical Team's Repository](https://github.com/4basecare/ClinRepo)
-2. [Research Team's Repository](https://github.com/4basecare/ResRepo)
+
 
 ---
 <h3 align="left">📫 Connect with Us:</h3>
