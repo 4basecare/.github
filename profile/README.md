@@ -31,10 +31,8 @@
 
 ---
 <h3 align="left">📫 Connect with Us:</h3>
-<h4 align="left">Clinical Team Lead:</h4>
+<h4 align="left">Team Lead:</h4>
 <a href = "mailto: vyomesh@4basecare.com">Vyomesh Javle</a>
-<h4 align="left">Research Team Lead:</h4>
-<a href = "mailto: nishtha@4basecare.com">Nishtha Tanwar</a>
 
 
 <h5 align="left">Drop queries at our</h5>
